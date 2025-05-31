@@ -1,2 +1,1 @@
 # shopease
-Author- Het Mevada
